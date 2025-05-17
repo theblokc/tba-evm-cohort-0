@@ -1,4 +1,4 @@
-# Session 05: [Session Title Here]
+# Session 05: Hands-on DApp Development 
 
 ## 🧠 Objectives
 
