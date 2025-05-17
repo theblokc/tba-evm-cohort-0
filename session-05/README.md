@@ -3,9 +3,7 @@
 ## 🧠 Objectives
 
 By the end of this session, participants will be able to:
-- [Objective 1 — e.g., Understand the basics of blockchain and its key components]
-- [Objective 2 — e.g., Set up a local development environment]
-- [Objective 3 — e.g., Write and deploy a simple smart contract]
+- [Objective 1 — Interacting with Smart Contracts by Building a Mini DApp (Public Notepad) with Next.js]
 
 ---
 
@@ -20,51 +18,37 @@ By the end of this session, participants will be able to:
 ## 🧰 Prerequisites
 
 Make sure you have the following installed or set up before the session:
-- [Tool 1, e.g., Node.js v18+](https://nodejs.org/)
-- [Tool 2, e.g., Git](https://git-scm.com/)
-- [Tool 3, e.g., Phantom wallet or Metamask extension]
+## Accounts & Tooling
+
+- **Github**: Ensure you have a GitHub account for version control and collaboration.
+
+## Wallet
+
+- **Coinbase Wallet**: Use Coinbase Wallet for managing your assets and interacting with dApps.
+
+## Development Setup
+
+### IDE (Preferred: Visual Studio Code)
+
+- Install [Visual Studio Code](https://code.visualstudio.com/).
+
+### Git
+
+- Install [Git](https://git-scm.com/) for version control.
+
+### Node.js
+
+- Install [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm) (for Windows | Mac/Linux) or [Node.js](https://nodejs.org/en/) for managing Node versions.
+
+## VS Code Extensions (Optional)
+
+- [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity): For Solidity language support in VS Code.
+- [Solidity Inspector](https://marketplace.visualstudio.com/items?itemName=PraneshASP.vscode-solidity-inspector&fbclid=IwAR06u7pxaz64pHVdIi4EJxpurHagspg2sEjHusrTDdlkoYC38iKMiRqhgH0): For code inspection and syntax highlighting.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): For identifying and reporting on patterns found in JavaScript and TypeScript code.
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot): AI-powered code completion tool.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): For enhanced Git capabilities within VS Code.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Auto-completion for file paths in VS Code.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): For code formatting and styling.
 
 ---
 
-## 🧪 Session Activities
-
-During this session, we will:
-- [Activity 1 — e.g., Walk through key blockchain concepts]
-- [Activity 2 — e.g., Set up local dev environment]
-- [Activity 3 — e.g., Deploy a "Hello Blockchain" contract]
-
----
-
-## 💻 Code & Files
-
-- Starter Code: [`starter/`](./starter)
-- Final Code: [`solution/`](./solution)
-
----
-
-## 📌 Post-Session Homework
-
-To reinforce what you learned:
-- [Task 1 — e.g., Fork the repo and customize the smart contract]
-- [Task 2 — e.g., Submit your deployed contract link]
-- [Task 3 — e.g., Answer reflection questions in the Discord thread]
-
----
-
-## 🗂 Additional Resources
-
-- [Online Playground, e.g., Remix IDE](https://remix.ethereum.org/)
-- [Solana Playground](https://beta.solpg.io/)
-- [Cheat Sheet or quick guide PDF (optional)]
-
----
-
-## 🙋 FAQ
-
-- **Q:** Do I need prior blockchain knowledge?  
-  **A:** No! We’re starting from the basics.
-
-- **Q:** Will there be a recording of this session?  
-  **A:** Yes, we’ll post it in the #recordings channel on Discord.
-
----
